@@ -26,7 +26,7 @@ public class Main {
         }
         while (!done);
         System.out.println("Temperature in Fahrenheit: " + fahrenheit);
-        FuelCost(args); //calls next program
+        FuelCost(args);
     }
 
     public static void FuelCost(String[] args) {
